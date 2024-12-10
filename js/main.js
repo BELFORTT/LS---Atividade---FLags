@@ -1,4 +1,4 @@
-import Flags from "./flags.js";
+import Flags from "./link/flags.js";
 
 const main = document.getElementById("local_flags");
 
